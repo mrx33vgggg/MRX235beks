@@ -154,6 +154,8 @@
     });
   }
 
+
+  
   // ===== LANGUAGE TOGGLE =====
   async function loadTranslations() {
     try {
@@ -618,3 +620,4 @@
   }
 
 })();
+
